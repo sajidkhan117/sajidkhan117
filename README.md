@@ -1,5 +1,5 @@
 # 💫 About Me:
-We are a large team of experts on Fiverr specializing in
+We are a large team of experts  specializing in
 	web development
  mobile app development,
 	WordPress,
